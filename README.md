@@ -1,4 +1,4 @@
-# gadgetry
+# Gadgetry
 ***
 ## Installation instructions
 - install postgreSQL
